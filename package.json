@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-nfcpy-id",
+  "name": "@meister-of-manufacturing-it/node-red-contrib-nfcpy-id-with-touchend",
   "version": "0.1.1",
   "description": "Read the card ID (Mifare: UID, FeliCa: IDm) with nfcpy (a Python module).\r\nThis node can't catch touchend event.",
   "main": "nfcpy-id.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/k-harada413/node-red-contrib-nfcpy-id.git"
+    "url": "git+https://github.com/meister-of-manufacturing-it/node-red-contrib-nfcpy-id-with-touchend.git"
   },
   "node-red": {
     "nodes": {
@@ -23,9 +23,9 @@
     "nfcreader"
   ],
   "author": "k-harada413",
-  "license": "Apache2.0",
+  "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/k-harada413/node-red-contrib-nfcpy-id/issues"
+    "url": "https://github.com/meister-of-manufacturing-it/node-red-contrib-nfcpy-id-with-touchend/issues"
   },
-  "homepage": "https://github.com/k-harada413/node-red-contrib-nfcpy-id#readme"
+  "homepage": "https://github.com/meister-of-manufacturing-it/node-red-contrib-nfcpy-id-with-touchend#readme"
 }
