@@ -1,6 +1,6 @@
 {
   "name": "@meister-of-manufacturing-it/node-red-contrib-nfcpy-id-with-touchend",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Read the card ID (Mifare: UID, FeliCa: IDm) with nfcpy (a Python module).\r\nThis node can't catch touchend event.",
   "main": "nfcpy-id.js",
   "scripts": {
